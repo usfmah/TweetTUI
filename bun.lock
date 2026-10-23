@@ -12,8 +12,6 @@
         "@types/bun": "latest",
         "@types/react": "^19.3.0",
         "ink-testing-library": "^4.0.0",
-      },
-      "peerDependencies": {
         "typescript": "^7.0.2",
       },
     },
